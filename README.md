@@ -1,4 +1,4 @@
-# Options Pricing & Greeks with Black–Scholes in Python
+# Options Pricing & Greeks Calculation with Black–Scholes in Python
 
 This project is a simple, self-contained Python script that:
 
